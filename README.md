@@ -42,14 +42,13 @@ Crie um arquivo .env na raiz do projeto e adicione sua chave de API do Telegram:
 env
 Copiar
 Editar
-FURIA_BOT_TOKEN=7642817409:AAFmexB0nNSijQ9ooVunRr0vHV1rg5jgKRg
+FURIA_BOT_TOKEN= *Token Enviado na aba de observações do Formulário*
 Ou defina diretamente no terminal:
 
 bash
 Copiar
 Editar
-export FURIA_BOT_TOKEN=7642817409:AAFmexB0nNSijQ9ooVunRr0vHV1rg5jgKRg  # No Windows: set FURIA_BOT_TOKEN=7642817409:AAFmexB0nNSijQ9ooVunRr0vHV1rg5jgKRg
-Execute o bot:
+export FURIA_BOT_TOKEN= *Token Enviado na aba de observações do Formulário* # No Windows: set FURIA_BOT_TOKEN= *Token Enviado na aba de observações do Formulário*
 
 bash
 Copiar
